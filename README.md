@@ -1,7 +1,9 @@
 # Jogo_MultiThreading
 Jogo desenvolvido para a disciplina de Algoritmos e Programação 2 do meu curso de Engenharia de Computação na UFG
 
-Este jogo foi desenvolvido com a interface gráfica Java Swing e multithreading. Assim cada uma das diversas naves e cada tiro é um thread diferente. Cada thread
+Este jogo foi desenvolvido com a interface gráfica Java Swing e multithreading.
+
+Assim cada uma das diversas naves e cada tiro é um thread diferente. Cada thread
 “nave Tie Fighter” precisa ler a posição na tela dos seus threads “tiros” e comparar com a
 posição da nave inimiga para saber se ela foi “atingida” e, depois, passar essa informação
 para a nave correspondente para que ela possa “explodir”.
