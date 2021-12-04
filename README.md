@@ -1,4 +1,4 @@
-# Jogo_MultiThreading
+# Jogo MultiThreading
 Jogo desenvolvido para a disciplina de Algoritmos e Programação 2 do meu curso de Engenharia de Computação na UFG
 
 Este jogo foi desenvolvido com a interface gráfica Java Swing e multithreading.
